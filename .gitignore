@@ -1,0 +1,7 @@
+# Este repo publica SOLO la sala cifrada. Todo lo demás del taller vive en OneDrive
+# (../material y ../sala-fuente) y nunca se sube: tiene las respuestas en texto plano.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
